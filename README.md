@@ -1,1 +1,1 @@
-# Caramel
+# Caramel - AI Harness and Multi - Agent System
